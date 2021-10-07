@@ -1,0 +1,37 @@
+body {
+
+  margin:0;
+  padding:0;
+  background-color:#222;
+  color:#f5f5f5;
+}
+
+.displayButton {
+
+  padding:0.5rem 0.9rem;
+  border:none;
+  color:#f5f5f5;
+
+}
+
+#startButton  {
+
+  margin-right:2rem;
+  background-color:green;
+
+}
+
+#stopButton {
+
+  background-color:red;
+}
+
+#shape {
+
+  width:15vw;
+  height:15vh;
+  background-color:blueviolet;
+  margin-top:2rem;
+  position:relative;
+  display:none;
+}
